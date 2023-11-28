@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9f1910964742311025dcb3ee436d437a" label="Collection " max_length="40" name="x_736469_collect_0_collection" text_index="true" type="collection">
         <element label="Collection item" max_length="150" name="collection_item" type="string"/>
+        <element label="Commit trial" max_length="40" name="commit_trial" type="string"/>
         <element label="Cost" max_length="40" name="cost" type="integer"/>
         <element label="Date purchased" max_length="40" name="date_purchased" type="glide_date_time"/>
         <element label="Description Field" max_length="4000" name="description_field" type="string"/>
