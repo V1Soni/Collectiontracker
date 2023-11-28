@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_736469_collect_0.user" name="x_736469_collect_0.user">f90350124742311025dcb3ee436d4372</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-24 19:31:34</sys_created_on>
+        <sys_id>f50350124742311025dcb3ee436d4373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f90350124742311025dcb3ee436d4372</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_736469_collect_0">f50350124742311025dcb3ee436d435b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">f50350124742311025dcb3ee436d435b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f50350124742311025dcb3ee436d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 19:31:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

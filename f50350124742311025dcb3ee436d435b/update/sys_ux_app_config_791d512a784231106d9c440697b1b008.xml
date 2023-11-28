@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>A Workspace to manage Collection Items</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Collection Tracker Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 19:33:39</sys_created_on>
+        <sys_id>791d512a784231106d9c440697b1b008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collection Tracker Config</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_736469_collect_0">f50350124742311025dcb3ee436d435b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">f50350124742311025dcb3ee436d435b</sys_scope>
+        <sys_update_name>sys_ux_app_config_791d512a784231106d9c440697b1b008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 19:33:39</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=791d512a784231106d9c440697b1b008"/>
+</record_update>

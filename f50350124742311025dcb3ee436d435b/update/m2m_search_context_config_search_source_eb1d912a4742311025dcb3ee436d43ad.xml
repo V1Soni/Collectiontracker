@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Collection Tracker - Workspace Search">fd1d112ae2423110983b28be5a50f7fe</search_context_config>
+        <source display_value="Collection Tracker - x_736469_collect_0_collection">0f1d912a4742311025dcb3ee436d438e</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 19:33:44</sys_created_on>
+        <sys_id>eb1d912a4742311025dcb3ee436d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Collection Tracker" source="x_736469_collect_0">f50350124742311025dcb3ee436d435b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">f50350124742311025dcb3ee436d435b</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_eb1d912a4742311025dcb3ee436d43ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 19:33:44</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>
